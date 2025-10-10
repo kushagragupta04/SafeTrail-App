@@ -1,0 +1,19 @@
+# TravelSafety ML Model Dependencies
+
+# Basic data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Geocoding and location services
+geopy>=2.3.0
+
+# Additional utilities
+requests>=2.28.0
+python-dotenv>=0.19.0
+
+# Optional dependencies (uncomment if needed)
+# smtplib - built into Python
+# twilio>=7.0.0  # For SMS notifications
+# newsapi-python>=0.2.6  # For news API
+# pymongo>=4.0.0  # For MongoDB connection
+# bcrypt>=4.0.0  # For password hashing
